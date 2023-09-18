@@ -1,10 +1,10 @@
 # CookeaseWebApp
+![Picture1](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/021b5378-61bf-407a-a57d-864404128ad8)
+![Picture2](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/87b256aa-23fe-4998-84a1-0b02de1b5ae7)
+![Picture3](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/f3dc8765-9a69-4a17-9ce1-f6fba1d598ff)
+![Picture4](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/37add0b2-9942-49c8-b7ae-81c4fcdaf9cb)
+![Picture5](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/e99412ac-8307-497b-99f8-3aae14f8355b)
 
-![Picture1](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/c65e77b5-bae4-4623-a569-800b68c8d4e2)
-![Picture2](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/11790d65-d525-4016-818a-9fda1fb40b07)
-![Picture3](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/acf3bd88-67b1-45e4-a6e0-5fb11d0c2e21)
-![Picture4](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/297e2f38-2d84-4735-8ed0-c51192cfc595)
-![Picture5](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/8c1919e3-b25e-45fe-9011-5c9810b26831)
 
 
 This template should help get you started developing with Vue 3 in Vite.

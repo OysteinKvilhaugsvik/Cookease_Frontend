@@ -2,6 +2,9 @@
 
 ![Picture1](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/c65e77b5-bae4-4623-a569-800b68c8d4e2)
 ![Picture2](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/11790d65-d525-4016-818a-9fda1fb40b07)
+![Picture3](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/acf3bd88-67b1-45e4-a6e0-5fb11d0c2e21)
+![Picture4](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/297e2f38-2d84-4735-8ed0-c51192cfc595)
+![Picture5](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/8c1919e3-b25e-45fe-9011-5c9810b26831)
 
 
 This template should help get you started developing with Vue 3 in Vite.

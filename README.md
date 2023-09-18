@@ -1,6 +1,7 @@
 # CookeaseWebApp
 
 ![Picture1](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/c65e77b5-bae4-4623-a569-800b68c8d4e2)
+![Picture2](https://github.com/OysteinKvilhaugsvik/Cookease_Frontend/assets/54100417/11790d65-d525-4016-818a-9fda1fb40b07)
 
 
 This template should help get you started developing with Vue 3 in Vite.
